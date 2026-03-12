@@ -1,4 +1,4 @@
-# UI Redesign: Starbucks Green Gradient + Asymmetric Dashboard Layout
+w# UI Redesign: Starbucks Green Gradient + Asymmetric Dashboard Layout
 
 Status: [x] In Progress | [x] Planned | [ ] Completed
 
